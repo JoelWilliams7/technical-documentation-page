@@ -1,0 +1,20 @@
+<style>
+body {
+    background-color: #f6f6f6;
+}
+
+#nevbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    pedding: 30px;
+    width: 300px;
+    height: 100vh
+    background-color: white;
+}
+
+.nav-links{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+}
